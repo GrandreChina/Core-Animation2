@@ -12,6 +12,8 @@
 		B15E7C601C42AE02007A23D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B15E7C5E1C42AE02007A23D5 /* Main.storyboard */; };
 		B15E7C621C42AE02007A23D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B15E7C611C42AE02007A23D5 /* Assets.xcassets */; };
 		B15E7C651C42AE02007A23D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B15E7C631C42AE02007A23D5 /* LaunchScreen.storyboard */; };
+		B15E7C6F1C43A0C1007A23D5 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B15E7C6E1C43A0C1007A23D5 /* SecondViewController.swift */; };
+		B15E7C711C43DCE9007A23D5 /* ThreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B15E7C701C43DCE9007A23D5 /* ThreViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		B15E7C611C42AE02007A23D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B15E7C641C42AE02007A23D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B15E7C661C42AE02007A23D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B15E7C6E1C43A0C1007A23D5 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		B15E7C701C43DCE9007A23D5 /* ThreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThreViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				B15E7C611C42AE02007A23D5 /* Assets.xcassets */,
 				B15E7C631C42AE02007A23D5 /* LaunchScreen.storyboard */,
 				B15E7C661C42AE02007A23D5 /* Info.plist */,
+				B15E7C6E1C43A0C1007A23D5 /* SecondViewController.swift */,
+				B15E7C701C43DCE9007A23D5 /* ThreViewController.swift */,
 			);
 			path = "Core Animation2";
 			sourceTree = "<group>";
@@ -136,6 +142,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B15E7C6F1C43A0C1007A23D5 /* SecondViewController.swift in Sources */,
+				B15E7C711C43DCE9007A23D5 /* ThreViewController.swift in Sources */,
 				B15E7C5D1C42AE02007A23D5 /* ViewController.swift in Sources */,
 				B15E7C5B1C42AE02007A23D5 /* AppDelegate.swift in Sources */,
 			);
